@@ -57,7 +57,7 @@ export default function Home() {
           <section id="projects" className="min-h-screen py-20">
             <ProjectsCarousel />
           </section>
-
+    
           <section id="experience" className="min-h-screen py-20">
             <Experience />
           </section>
